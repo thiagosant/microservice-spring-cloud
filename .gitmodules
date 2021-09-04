@@ -13,3 +13,6 @@
 [submodule "service-discovery"]
 	path = service-discovery
 	url = https://github.com/thiagosant/service-discovery.git
+[submodule "product-catalog"]
+	path = product-catalog
+	url = https://github.com/thiagosant/product-catalog.git
