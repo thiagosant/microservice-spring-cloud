@@ -1,0 +1,15 @@
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/thiagosant/config-server.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/thiagosant/gateway.git
+[submodule "project-config"]
+	path = project-config
+	url = https://github.com/thiagosant/project-config.git
+[submodule "shopping-cart"]
+	path = shopping-cart
+	url = https://github.com/thiagosant/shopping-cart.git
+[submodule "service-discovery"]
+	path = service-discovery
+	url = https://github.com/thiagosant/service-discovery.git
